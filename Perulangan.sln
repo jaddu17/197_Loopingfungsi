@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Perulangan", "Perulangan\Perulangan.vcxproj", "{1846DB31-25FC-481E-BBB3-29F1881E62A4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prosedur dan Fungsi", "Prosedur dan Fungsi\Prosedur dan Fungsi.vcxproj", "{318FAD14-4C47-4D15-9516-419649836B51}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping While", "Prosedur dan Fungsi\Prosedur dan Fungsi.vcxproj", "{318FAD14-4C47-4D15-9516-419649836B51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping Do While", "Looping Do While\Looping Do While.vcxproj", "{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{318FAD14-4C47-4D15-9516-419649836B51}.Release|x64.Build.0 = Release|x64
 		{318FAD14-4C47-4D15-9516-419649836B51}.Release|x86.ActiveCfg = Release|Win32
 		{318FAD14-4C47-4D15-9516-419649836B51}.Release|x86.Build.0 = Release|Win32
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Debug|x64.ActiveCfg = Debug|x64
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Debug|x64.Build.0 = Debug|x64
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Debug|x86.ActiveCfg = Debug|Win32
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Debug|x86.Build.0 = Debug|Win32
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Release|x64.ActiveCfg = Release|x64
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Release|x64.Build.0 = Release|x64
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Release|x86.ActiveCfg = Release|Win32
+		{46C35CA3-207B-43F8-AF1C-D36BBE6F1999}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
